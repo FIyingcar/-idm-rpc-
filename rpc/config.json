@@ -1,0 +1,12 @@
+{
+    "idm_path": "D:\\Program Files\\Internet Download Manager\\IDMan.exe",
+    "rpc_port": 6800,
+    "host": "127.0.0.1",
+    "debug": true,
+    "api_token": "FIyingcar",
+    "enable_auth": false,
+    "default_save_path": "D:\\Download",
+    "max_concurrent_requests": 10,
+    "idm_timeout": 30,
+    "task_history_days": 7
+}
